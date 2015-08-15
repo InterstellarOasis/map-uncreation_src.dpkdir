@@ -58,8 +58,8 @@ Mapping:
 
 Textures & Shaders:
 
-* Simon “sock” O'Callaghan
-* Lunaran
+* Matthew “Lunaran” Breit (http://lunaran.com/)
+* Simon “sock” O'Callaghan (http://www.simonoc.com/)
 
 Special thanks:
 
@@ -76,6 +76,9 @@ http://directory.fsf.org/wiki/License:ISC
 
 Assets by Tremulous contributors fall under the Creative Commons Attribution-ShareAlike 2.5 Generic License:  
 http://creativecommons.org/licenses/by-sa/2.5/
+
+Textures from Matthew Breit are subject to the terms of this notice:  
+You may: Use the included custom textures & shaders, or modifications thereof, provided you give note of such in an attached readme (and please let me know). Distribute this pak file and/or its contents by any electronic means, provided you leave the contents unaltered and include this text file, also unaltered. You may not: Commercially exploit this file or its contents in any way. Distribute this pak file and/or its contents on any hard media whatsoever, including but not limited to magazine coverdisks or level compilations, without prior consent of and negotiation with the author.
 
 History
 -------
