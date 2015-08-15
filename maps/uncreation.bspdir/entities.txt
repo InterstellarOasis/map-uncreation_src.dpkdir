@@ -1,7 +1,7 @@
 {
 "message" "Uncreation"
 "classname" "worldspawn"
-"colorGrade" "gfx/uncreation/colorgrading.png"
+"gradingTexture" "gfx/uncreation/colorgrading.png"
 }
 {
 "classname" "team_human_mgturret"
