@@ -1,7 +1,7 @@
 Uncreation
 ----------
 
-This is a map ported from the [Tremulous](http://tremulous.net/) game to the [Unvanquished](https://www.unvanquished.net/) game.
+This is a map ported from the [Tremulous](http://tremulous.net/) game to the [Unvanquished](https://www.unvanquished.net/) game. It features the hellish landscape of a deranged map creator's mind, sould be uncreated.
 
 Ported from Tremulous gpp package from [http://ingar.satgnu.net/files/tremulous/base/](http://ingar.satgnu.net/files/tremulous/base/).
 
@@ -67,6 +67,8 @@ Special thanks:
 * Nicolas “Jex“ Jansens <jex@orodu.net>
 * Stijn “Ingar“ Buys <ingar@osirion.org>
 * Tim “Timbo” Angus <tim@ngus.net>
+* cu-kai
+* StalKermit
 
 Legal
 -----
@@ -83,5 +85,6 @@ You may: Use the included custom textures & shaders, or modifications thereof, p
 History
 -------
 
+* 2015-08-16:	Uncreation 1.2 (Unvanquished community map)
 * 2009-12-04:	Tremulous 1.2 Beta (Gameplay preview)
 * 2006-03-31:	Tremulous 1.1.0 (Standalone)
