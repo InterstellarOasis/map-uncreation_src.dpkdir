@@ -42,7 +42,7 @@
 {
 "target" "arelay1"
 "stage" "1"
-"group" "1"
+"team" "1"
 "origin" "1152 152 -648"
 "classname" "sensor_stage"
 }
@@ -191,7 +191,7 @@
 "classname" "sensor_stage"
 "origin" "-1440 432 -608"
 "target" "hrelay1"
-"group" "2"
+"team" "2"
 "stage" "1"
 }
 {
@@ -255,14 +255,14 @@
 {
 "classname" "sensor_stage"
 "origin" "0 -120 -512"
-"group" "1"
+"team" "1"
 "stage" "2"
 "target" "arelay2"
 }
 {
 "target" "hrelay2"
 "stage" "2"
-"group" "2"
+"team" "2"
 "origin" "-96 0 -512"
 "classname" "sensor_stage"
 }
@@ -296,24 +296,24 @@
 "origin" "1152 1136 -736"
 }
 {
-"classname" "ctrl_relay"
+"classname" "target_relay"
 "origin" "-1440 384 -608"
 "target" "t2"
 "name" "hrelay1"
 }
 {
-"classname" "ctrl_relay"
+"classname" "target_relay"
 "target" "t8"
 "name" "hrelay2"
 }
 {
-"classname" "ctrl_relay"
+"classname" "target_relay"
 "origin" "0 -160 -512"
 "name" "arelay2"
 "target" "t7"
 }
 {
-"classname" "ctrl_relay"
+"classname" "target_relay"
 "origin" "1152 112 -648"
 "target" "t4"
 "name" "arelay1"
