@@ -1,5 +1,6 @@
 {
-	map			"uncreation"
-	longname	"Uncreation"
-	type		"tremulous"
+	map "uncreation"
+	longname "Uncreation"
+	author "Who-[Soup]"
+	type "tremulous"
 }
