@@ -10,7 +10,7 @@ This port is an Interstellar Oasis initiative: [https://github.com/InterstellarO
 Levelshot
 ---------
 
-![Levelshot](meta/uncreation/uncreation_web.jpg)
+![Levelshot](meta/uncreation/uncreation.webp)
 
 How-to
 ------
